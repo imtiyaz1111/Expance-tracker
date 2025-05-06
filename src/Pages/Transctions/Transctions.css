@@ -1,0 +1,20 @@
+@media (max-width: 576px) {
+    .table-responsive {
+      overflow-x: auto;
+    }
+    
+    th, td {
+      white-space: nowrap;
+    }
+  
+    .btn-light {
+      font-size: 14px;
+      padding: 6px 12px;
+    }
+  
+    .bg-light.rounded-pill {
+      font-size: 14px;
+      padding: 6px 16px;
+    }
+  }
+  
